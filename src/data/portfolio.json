@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "homeImage": "img/portfolio/portfolio-1.jpg",
+        "title": "Daniel Raclift",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["pFace"],
+        "persianText": "پرتره چهره",
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": [
+            { "id": 0, "src": "./img/portfolio/pFace-1.jpg" },
+            { "id": 1, "src": "./img/portfolio/pFace-2.jpg" },
+            { "id": 2, "src": "./img/portfolio/pFace-3.jpg" },
+            { "id": 3, "src": "./img/portfolio/pFace-4.jpg" }
+        ]
+    },
+    {
+        "id": 2,
+        "homeImage": "img/portfolio/portfolio-2.jpg",
+        "title": "Designer Linocut",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["pMostanad"],
+        "persianText": "عکاسی مستند",
+
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": [
+            { "id": 0, "src": "./img/portfolio/pMostanad-1.jpg" },
+            { "id": 1, "src": "./img/portfolio/pMostanad-2.jpg" },
+            { "id": 2, "src": "./img/portfolio/pMostanad-3.jpg" },
+            { "id": 3, "src": "./img/portfolio/pMostanad-4.jpg" },
+            { "id": 4, "src": "./img/portfolio/pMostanad-5.jpg" },
+            { "id": 5, "src": "./img/portfolio/pMostanad-6.jpg" },
+            { "id": 6, "src": "./img/portfolio/pMostanad-7.jpg" }
+        ]
+    },
+    {
+        "id": 3,
+        "homeImage": "img/portfolio/portfolio-3.jpg",
+        "title": "Designer Collagraph",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["pStreet"],
+        "persianText": "عکاسی خیابان",
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": [{ "id": 0, "src": "./img/portfolio/pStreet-1.jpg" }]
+    },
+    {
+        "id": 4,
+        "homeImage": "img/portfolio/portfolio-4.jpg",
+        "title": "Designer Engraving",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["poStreet"],
+        "persianText": "پرتره خیابانی",
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": [
+            { "id": 0, "src": "./img/portfolio/poStreet-1.jpg" },
+            { "id": 1, "src": "./img/portfolio/poStreet-2.jpg" },
+            { "id": 2, "src": "./img/portfolio/poStreet-3.jpg" }
+        ]
+    }
+]
